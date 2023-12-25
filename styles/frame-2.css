@@ -1,0 +1,354 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.frame-2-h9b {
+  box-sizing: border-box;
+  padding-bottom: 10.354rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.frame-2-h9b .auto-group-xgob-dZ3 {
+  margin-bottom: 7.1626rem;
+  width: 100%;
+  height: 12.7374rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-2-h9b .auto-group-xgob-dZ3 .rectangle-2-NWd {
+  width: 160rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #250505;
+}
+.frame-2-h9b .auto-group-xgob-dZ3 .item--Wsj {
+  width: 19.9rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 133.2rem;
+  top: 5.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Futura Heavy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-h9b .auto-group-xgob-dZ3 .item--BMb {
+  width: 27.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 97rem;
+  top: 5.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Futura Heavy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-h9b .auto-group-xgob-dZ3 .item--38u {
+  width: 28.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 60.1rem;
+  top: 5.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Futura Heavy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-h9b .auto-group-xgob-dZ3 .image-1-uwo {
+  width: 15rem;
+  height: 12.7374rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-2-h9b .item--SRw {
+  margin: 0rem 0rem 1.8rem 5.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2020000458;
+  color: #000000;
+  font-family: Futura Heavy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.frame-2-h9b .item--SRw .item--SRw-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #2a3281;
+  font-family: Futura Heavy, 'Source Sans Pro';
+}
+.frame-2-h9b .item--SRw .item--SRw-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #e90000;
+  font-family: Futura Heavy, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b {
+  margin: 0rem 9.367rem 0rem 5.5rem;
+  width: calc(100% - 14.8665rem);
+  height: 55.346rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-urhk-ZHb {
+  margin: 0.2rem 12.7rem 0rem 0rem;
+  width: 62.7rem;
+  flex-shrink: 0;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-urhk-ZHb .rectangle-3-tam {
+  margin-bottom: 1.4rem;
+  width: 12rem;
+  height: 0.3rem;
+  background-color: #f60000;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-urhk-ZHb .auto-group-xjyu-qF7 {
+  width: 100%;
+  height: 47.8rem;
+  position: relative;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-urhk-ZHb .auto-group-xjyu-qF7 .item--BZs {
+  width: 49.7rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #2a3281;
+  font-family: Futura Heavy, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-urhk-ZHb .auto-group-xjyu-qF7 .item--btV {
+  width: 62.7rem;
+  height: 37rem;
+  position: absolute;
+  left: 0;
+  top: 10.8rem;
+  font-size: 2.1rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #141e35;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw {
+  width: 69.7335rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .photo5208819655668519623mupscayl4xrealesrgan-x4plus-1-mtm {
+  width: 56.2335rem;
+  height: 55.346rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 9.8rem;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item--sB7 {
+  width: 27.2rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 40.3rem;
+  top: 43.2rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #474747;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .rectangle-5-GsT {
+  width: 8rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 40.3rem;
+  top: 15.8rem;
+  background-color: #f60000;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item-80-12-600-700-250-150-8-800--cAd {
+  width: 24.6rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 0;
+  top: 12.2rem;
+  font-size: 2.1rem;
+  font-weight: 500;
+  line-height: 1.5499999637;
+  color: #000000;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item-80-12-600-700-250-150-8-800--cAd .item-80-12-600-700-250-150-8-800--cAd-sub-0 {
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #2a3281;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item-80-12-600-700-250-150-8-800--cAd .item-80-12-600-700-250-150-8-800--cAd-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #2a3281;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item-80-12-600-700-250-150-8-800--cAd .item-80-12-600-700-250-150-8-800--cAd-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #474747;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item-80-12-600-700-250-150-8-800--cAd .item-80-12-600-700-250-150-8-800--cAd-sub-3 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #474747;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .da31fdd4352e8092e2ebb9d95add700b-price-tag-stroke-icon-1-1Gd {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0;
+  top: 8.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .rectangle-4-vPb {
+  width: 8rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 0;
+  top: 15.8rem;
+  background-color: #f60000;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .rectangle-6-fc5 {
+  width: 8rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 0;
+  top: 41.5rem;
+  background-color: #f60000;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .rectangle-7-2Bj {
+  width: 8rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 40.3rem;
+  top: 41.5rem;
+  background-color: #f60000;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item-11-00-20-00-11-00-18-00--xr5 {
+  width: 12.8rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 40.3rem;
+  top: 12.2rem;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #2a3281;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item-11-00-20-00-11-00-18-00--xr5 .item-11-00-20-00-11-00-18-00--xr5-sub-0 {
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item-11-00-20-00-11-00-18-00--xr5 .item-11-00-20-00-11-00-18-00--xr5-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #474747;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item-3310389-1-3FF {
+  width: 2.3203rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 40.3rem;
+  top: 8.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item--xd7 {
+  width: 27.1rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 0;
+  top: 38.1rem;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #2a3281;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item--xd7 .item--xd7-sub-0 {
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item--xd7 .item--xd7-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #474747;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .massage-logo-png-graphic-design-1-Sid {
+  width: 3.7rem;
+  height: 1.9841rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 36.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .item--xws {
+  width: 10.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 40.3rem;
+  top: 38.1rem;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #2a3281;
+  font-family: Avenir, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-h9b .auto-group-bja5-G3b .auto-group-4quw-Edw .image-removebg-preview-1-woo {
+  width: 3.7rem;
+  height: 3.304rem;
+  position: absolute;
+  left: 40.3rem;
+  top: 34.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}

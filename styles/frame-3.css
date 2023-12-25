@@ -1,0 +1,354 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.frame-3-8Mo {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.frame-3-8Mo .rectangle-8-529 {
+  width: 100%;
+  height: 0.8rem;
+  background-color: #ce0f0f;
+  flex-shrink: 0;
+}
+.frame-3-8Mo .auto-group-at2y-pVX {
+  margin-bottom: 5.7rem;
+  width: 100%;
+  height: 63.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .rectangle-10-xbj {
+  width: 160rem;
+  height: 0.8rem;
+  position: absolute;
+  left: 0;
+  top: 33.8rem;
+  background-color: #ce0f0f;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .rectangle-9-J9o {
+  width: 160rem;
+  height: 33.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #130d2e;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ {
+  width: 90rem;
+  height: 50.1rem;
+  position: absolute;
+  left: 35rem;
+  top: 13.3rem;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .rectangle-11-a7K {
+  width: 90rem;
+  height: 50rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  box-shadow: 0.4rem 0.8rem 0.4rem rgba(0, 0, 0, 0.5);
+  background-color: #ffffff;
+  border-radius: 4.6rem;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .rectangle-12-t81 {
+  width: 50.2rem;
+  height: 50rem;
+  position: absolute;
+  left: 39.8rem;
+  top: 0;
+  background-color: #c00000;
+  border-radius: 4.6rem;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .rectangle-13-d5b {
+  width: 17.2rem;
+  height: 50rem;
+  position: absolute;
+  left: 39.8rem;
+  top: 0;
+  background-color: #c00000;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .rectangle-14-xtZ {
+  width: 30rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 45rem;
+  top: 17.3rem;
+  background-color: #ffffff;
+  border-radius: 1.3rem;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .item--W9P {
+  width: 10.5rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 17.9rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Berthold Akzidenz Grotesk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .item--a9F {
+  width: 15.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 45rem;
+  top: 14.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Futura Heavy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .item--FmB {
+  width: 23.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 45rem;
+  top: 21.7rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Futura Heavy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .item--XCu {
+  width: 37.2rem;
+  height: 26.2rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 5.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Futura Heavy, 'Source Sans Pro';
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .item--XCu .item--XCu-sub-0 {
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .item--XCu .item--XCu-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #474747;
+  font-family: Futura Heavy, 'Source Sans Pro';
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .item--ZUM {
+  width: 12.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 45rem;
+  top: 6.5rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Futura Heavy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .rectangle-14-3uK {
+  width: 30rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 45rem;
+  top: 9.8rem;
+  background-color: #ffffff;
+  border-radius: 1.3rem;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .rectangle-15-auF {
+  width: 35rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 45rem;
+  top: 25rem;
+  background-color: #ffffff;
+  border-radius: 1.3rem;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .item--KM3 {
+  width: 6.4rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 10.4rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Berthold Akzidenz Grotesk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .item--QtH {
+  width: 10rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 25.7rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Berthold Akzidenz Grotesk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .rectangle-16-hsP {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 45rem;
+  top: 32.8rem;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .group-1-eUZ .item--Sa5 {
+  width: 7.3rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 46.6rem;
+  top: 33.9rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Berthold Akzidenz Grotesk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-8Mo .auto-group-at2y-pVX .item--9Db {
+  width: 50.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 55.3rem;
+  top: 3.4rem;
+  font-size: 5.5rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Berthold Akzidenz Grotesk, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-8Mo .auto-group-sxww-2YH {
+  margin: 0rem 64.6rem 6.6rem 65.3rem;
+  width: calc(100% - 129.9rem);
+  height: 8.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-3-8Mo .auto-group-sxww-2YH .item-0988707045-9so {
+  width: 22.4rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Helvetica Neue LT Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-8Mo .auto-group-sxww-2YH .item--g73 {
+  width: 29.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 1rem;
+  top: 5.4rem;
+  font-size: 2.7rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #c2241c;
+  font-family: Helvetica Neue LT Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-8Mo .rectangle-17-Yf3 {
+  width: 100%;
+  height: 0.8rem;
+  background-color: #ce0f0f;
+  flex-shrink: 0;
+}
+.frame-3-8Mo .auto-group-qz7w-6Rf {
+  box-sizing: border-box;
+  padding: 2.5rem 59.6rem 2.5rem 35rem;
+  width: 100%;
+  height: 33.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #130d2e;
+  flex-shrink: 0;
+}
+.frame-3-8Mo .auto-group-qz7w-6Rf .image-2-RD3 {
+  margin: 0rem 7.4rem 10.3rem 0rem;
+  width: 18.4rem;
+  height: 18.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-8Mo .auto-group-qz7w-6Rf .auto-group-xv1b-YHf {
+  margin: 7.5rem 6.1rem 13rem 0rem;
+  height: calc(100% - 20.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-3-8Mo .auto-group-qz7w-6Rf .auto-group-xv1b-YHf .real-gym-husiatyn-Fxm {
+  margin-bottom: 1.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Berthold Akzidenz Grotesk, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.frame-3-8Mo .auto-group-qz7w-6Rf .auto-group-xv1b-YHf .real-gym-husiatyn-Fxm .real-gym-husiatyn-Fxm-sub-0 {
+}
+.frame-3-8Mo .auto-group-qz7w-6Rf .auto-group-xv1b-YHf .real-gym-husiatyn-Fxm .real-gym-husiatyn-Fxm-sub-1 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #e90000;
+  font-family: Berthold Akzidenz Grotesk, 'Source Sans Pro';
+}
+.frame-3-8Mo .auto-group-qz7w-6Rf .auto-group-xv1b-YHf .realgymhusiatyncom--1qT {
+  margin-left: 6rem;
+  max-width: 26.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-3-8Mo .auto-group-qz7w-6Rf .item--etR {
+  margin-bottom: 14.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Berthold Akzidenz Grotesk, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

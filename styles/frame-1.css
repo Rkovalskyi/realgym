@@ -1,0 +1,166 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.frame-1-UXB {
+  box-sizing: border-box;
+  padding: 0rem 6.9rem 2.014rem 5.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../logos/victor-freitas-JbI04nYfaJk-unsplash\ \(1\).jpg');
+  background-size: cover;
+}
+.frame-1-UXB .auto-group-5pu3-fbf {
+  margin-bottom: 24.2626rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-UXB .auto-group-5pu3-fbf .image-1-NeV {
+  margin-right: 39.6rem;
+  width: 15rem;
+  height: 12.7374rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-UXB .auto-group-5pu3-fbf .item--UxR {
+  margin: 0.263rem 8.6rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Futura Heavy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-UXB .auto-group-5pu3-fbf .item--g2u {
+  margin: 0.263rem 8.8rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Futura Heavy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-UXB .auto-group-5pu3-fbf .item--jms {
+  margin-top: 0.2626rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Futura Heavy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-UXB .auto-group-iszk-q4D {
+  margin: 0rem 0rem 0.1rem 1.5rem;
+  width: 70rem;
+  height: 16.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-UXB .auto-group-iszk-q4D .real-gym-husiatyn-kgy {
+  width: 58.3rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 6.8rem;
+  font-weight: 500;
+  line-height: 1.1779999452;
+  color: #ffffff;
+  font-family: Berthold Akzidenz Grotesk, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.frame-1-UXB .auto-group-iszk-q4D .real-gym-husiatyn-kgy .real-gym-husiatyn-kgy-sub-0 {
+  font-size: 6.8rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Berthold Akzidenz Grotesk, 'Source Sans Pro';
+}
+.frame-1-UXB .auto-group-iszk-q4D .real-gym-husiatyn-kgy .real-gym-husiatyn-kgy-sub-1 {
+  font-size: 6.8rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #e90000;
+  font-family: Berthold Akzidenz Grotesk, 'Source Sans Pro';
+}
+.frame-1-UXB .auto-group-iszk-q4D .item--qVT {
+  width: 70rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 0;
+  top: 8rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Avenir, 'Source Sans Pro';
+}
+.frame-1-UXB .auto-group-epuz-utd {
+  margin: 0rem 0rem 23.8rem 1.5rem;
+  width: 20rem;
+  height: 6.5rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Avenir, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d30000;
+  flex-shrink: 0;
+}
+.frame-1-UXB .auto-group-jb4d-ApZ {
+  margin: 0rem 1.15rem 0rem 1.5rem;
+  width: calc(100% - 2.65rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-UXB .auto-group-jb4d-ApZ .logo-instagram-png-download-free-1-Vbw {
+  margin-right: 117.55rem;
+  width: 5rem;
+  height: 4.2857rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-UXB .auto-group-jb4d-ApZ .item-12-1aH {
+  margin-bottom: 0.0857rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Futura Heavy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
